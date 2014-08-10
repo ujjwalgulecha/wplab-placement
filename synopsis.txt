@@ -1,4 +1,4 @@
-Synopsis by Ram Kumar K R and Rahul R
+//Synopsis by Ram Kumar K R and Rahul R
 This project aims to solve the placement process troubles in R V College of Engineering.
 Placement process in RVCE takes place throughout the year, and the process of communication between coordinators and participants about
  the upcoming activities has many drawbacks. Remembering details about visiting and visited companies and other statistics for a student
