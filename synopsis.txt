@@ -1,2 +1,2 @@
-Synopsis by Ram Kumar K R and Rahul R
+//Synopsis by Ram Kumar K R and Rahul R
 This project aims to solve the placement process troubles in R V College of Engineering.
