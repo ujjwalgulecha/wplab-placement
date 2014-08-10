@@ -1,2 +1,12 @@
 Synopsis by Ram Kumar K R and Rahul R
 This project aims to solve the placement process troubles in R V College of Engineering.
+Placement process in RVCE takes place throughout the year, and the process of communication between coordinators and participants about
+ the upcoming activities has many drawbacks. Remembering details about visiting and visited companies and other statistics for a student
+is tedious and not organized. In this project we are building a web application which manages the operations which will ease some
+placement processes such as registering for the company, viewing the shortlist and so on. 
+The placement coordinators upload any information regarding upcoming placement activities and the students can register for them. 
+The students can view details and statistics  of visiting companies. Placement records of previous years are also maintained by the website. 
+The website also takes care about notifying the students by sending mails according the departments as they arrive. Options are provided
+ for the coordinators to  send any further notifications to the participants  and also to edit the uploaded details of the companies. 
+ The front end is designed to be appealing and user friendly. A Database is used for data storage. 
+
